@@ -8,10 +8,10 @@ from google.cloud import vision_v1
 
 
 #input keys and secret keys  
-consumer_key = 'j92G77my4VGAt2te7N763Wm7X'
-consumer_secret = 'YHwG5DhEvHkmuHyCfPyBsUGbPR4gowHEsJr8lLp0LKBp07xBRf'
-access_key = '1038545947972780032-qcMd7whlMk4ELMp7n9KqvQPF0kixuh'
-access_secret = 'gYZYXTcT7e7jCxRFfC4KvXQPNGZw0MrYfzYS9hcMXklAh'
+consumer_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+consumer_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+access_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
   
 # upload keys and secret keys
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)  
